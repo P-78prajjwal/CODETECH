@@ -1,0 +1,36 @@
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+
+data = pd.read_csv('IRIS.csv')
+print(data.head()) 
+# view the first few rows of the data
+print(data.info()) 
+# view data types and summary statistics
+print(data.describe()) 
+# view summary statistics
+#data.hist(figsize=(10, 10))  # histogram for each column
+plt.show()
+sns.pairplot(data)  # pair plot for numerical columns
+plt.show()
+sns.pairplot(data)  # pair plot for numerical columns
+plt.show()
+#sns.boxplot(data=data) 
+# box plot for each column
+# pair plot for categorical variables
+sns.pairplot(data.drop([], axis=1))
+plt.show()
+plt.scatter(data['sepal_length'], data['sepal_width'])
+# bar plots for categorical variables vs continuous variables
+fig, axarr = plt.subplots(4, 2, figsize=(12, 18))
+data.groupby('Species').mean().sort_values(by='sepal_length', ascending=False).plot.bar(ax=axarr[0][0], fontsize=18)
+#axarr[0][0].set_title("Location Vs Price", fontsize=18)
+# ... (rest of the code for bar plots)
+#plt.subplots_adjust(hspace=1.0)
+plt.subplots_adjust(wspace=.5)
+sns.despine()
+plt.show()
+# Calculate the correlation matrix
+filtered_df = data[data['Species'] == 'setosa'] 
+# Filter for 'setosa' species
+correlation_matrix = filtered_df.corr()
