@@ -48,3 +48,4 @@ These activities help in gaining insights into the data, understanding the chara
 ![Screenshot 2024-06-22 132935](https://github.com/P-78prajjwal/CODETECH/assets/77610728/b78660f2-d59c-4788-b721-e1c89ecc5060)
 ![Screenshot 2024-06-22 143737](https://github.com/P-78prajjwal/CODETECH/assets/77610728/ef344f8e-2238-4c7c-9530-aca4f1365144)
 ![Screenshot 2024-06-22 134017](https://github.com/P-78prajjwal/CODETECH/assets/77610728/d186216b-1bf2-4179-9773-28bf1814a46e)
+![Figure_1](https://github.com/P-78prajjwal/CODETECH/assets/77610728/4ff29849-cb0c-47b5-8cb8-ac8767dd7f69)
