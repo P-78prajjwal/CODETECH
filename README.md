@@ -45,8 +45,10 @@ These activities help in gaining insights into the data, understanding the chara
 <br>&#x2022; seaborn: a library for statistical data visualization
 </h4>
 
+<h1>TASK 1 OUTPUT: </h1>
 ![Screenshot 2024-06-22 132935](https://github.com/P-78prajjwal/CODETECH/assets/77610728/b78660f2-d59c-4788-b721-e1c89ecc5060)
 ![Screenshot 2024-06-22 143737](https://github.com/P-78prajjwal/CODETECH/assets/77610728/ef344f8e-2238-4c7c-9530-aca4f1365144)
 ![Screenshot 2024-06-22 134017](https://github.com/P-78prajjwal/CODETECH/assets/77610728/d186216b-1bf2-4179-9773-28bf1814a46e)
+<h1>TASK 2 OUTPUT: </h1>
 ![Screenshot 2024-06-24 142255](https://github.com/P-78prajjwal/CODETECH/assets/77610728/60bec924-41bb-4fa8-81f7-aaca200150c6)
 ![Figure_1](https://github.com/P-78prajjwal/CODETECH/assets/77610728/91078fe8-6fef-40f9-a18c-f5c04d0527d9)
